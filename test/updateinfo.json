@@ -3,18 +3,13 @@
         "appName": "Android Updater",
         "appDescription": "android updater",
         "packageName": "org.natuan.androidupdater",
-        "versionCode": "3",
+        "versionCode": "2.0",
         "versionName": "2.0",
         "forceUpdate": false,
-        "autoUpdate": false,
-        "apkUrl": "https://raw.github.com/snowdream/android-autoupdate/master/docs/test/android-autoupdater-v2.0-release.apk",
+        "autoUpdate": true,
+        "apkUrl": "https://raw.githubusercontent.com/natuan0rg/Android-Updater/master/test/app-release.apk",
         "updateTips": {
             "default": "update tips",
-            "en": "update tips",
-            "zh": "升级提示",
-            "zh_CN": "升级提示",
-            "zh_TW": "升級提示",
-            " zh_HK": "升级提示"
         }
     }
 }

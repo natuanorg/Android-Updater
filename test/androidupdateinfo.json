@@ -1,0 +1,15 @@
+{
+    "updateInfo":{
+        "appName": "Android Updater",
+        "appDescription": "android updater",
+        "packageName": "org.natuan.androidupdater",
+        "versionCode": "2.0",
+        "versionName": "2.0",
+        "forceUpdate": false,
+        "autoUpdate": true,
+        "apkUrl": "https://raw.githubusercontent.com/natuan0rg/Android-Updater/master/test/app-release-2.0.apk",
+        "updateTips": {
+            "default": "Android AutoUpdater"
+        }
+    }
+}

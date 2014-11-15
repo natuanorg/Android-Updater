@@ -9,7 +9,7 @@
         "autoUpdate": true,
         "apkUrl": "https://raw.githubusercontent.com/natuan0rg/Android-Updater/master/test/app-release-2.0.apk",
         "updateTips": {
-            "default": "update tips"
+            "default": "Android AutoUpdater"
         }
     }
 }

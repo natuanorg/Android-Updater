@@ -7,9 +7,9 @@
         "versionName": "2.0",
         "forceUpdate": true,
         "autoUpdate": true,
-        "apkUrl": "https://raw.githubusercontent.com/natuan0rg/Android-Updater/master/test/app-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/natuan0rg/Android-Updater/master/test/app-release-2.0.apk",
         "updateTips": {
-            "default": "update tips",
+            "default": "update tips"
         }
     }
 }

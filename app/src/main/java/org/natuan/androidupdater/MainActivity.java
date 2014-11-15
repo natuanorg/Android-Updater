@@ -75,7 +75,7 @@ public class MainActivity extends ActionBarActivity {
         UpdateManager manager = new UpdateManager(this);
 
         UpdateOptions options = new UpdateOptions.Builder(this)
-                .checkUrl("https://raw.githubusercontent.com/natuan0rg/Android-Updater/master/test/updateinfo.json")
+                .checkUrl("https://raw.githubusercontent.com/natuan0rg/Android-Updater/master/test/androidupdateinfo.json")
                 .updateFormat(UpdateFormat.JSON)
                 .updatePeriod(new UpdatePeriod(UpdatePeriod.EACH_TIME))
                 .checkPackageName(true)
